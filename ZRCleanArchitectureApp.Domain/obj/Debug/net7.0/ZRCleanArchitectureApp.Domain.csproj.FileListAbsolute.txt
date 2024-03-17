@@ -1,0 +1,12 @@
+E:\GitHub\_Articles-Posts To Complete Code\ASP.net Core\Architectures\Clean-Architecture-ASP.NET-Core-MVC\ZRCleanArchitectureApp.Domain\bin\Debug\net7.0\ZRCleanArchitectureApp.Domain.deps.json
+E:\GitHub\_Articles-Posts To Complete Code\ASP.net Core\Architectures\Clean-Architecture-ASP.NET-Core-MVC\ZRCleanArchitectureApp.Domain\bin\Debug\net7.0\ZRCleanArchitectureApp.Domain.dll
+E:\GitHub\_Articles-Posts To Complete Code\ASP.net Core\Architectures\Clean-Architecture-ASP.NET-Core-MVC\ZRCleanArchitectureApp.Domain\bin\Debug\net7.0\ZRCleanArchitectureApp.Domain.pdb
+E:\GitHub\_Articles-Posts To Complete Code\ASP.net Core\Architectures\Clean-Architecture-ASP.NET-Core-MVC\ZRCleanArchitectureApp.Domain\obj\Debug\net7.0\ZRCleanArchitectureApp.Domain.csproj.AssemblyReference.cache
+E:\GitHub\_Articles-Posts To Complete Code\ASP.net Core\Architectures\Clean-Architecture-ASP.NET-Core-MVC\ZRCleanArchitectureApp.Domain\obj\Debug\net7.0\ZRCleanArchitectureApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\_Articles-Posts To Complete Code\ASP.net Core\Architectures\Clean-Architecture-ASP.NET-Core-MVC\ZRCleanArchitectureApp.Domain\obj\Debug\net7.0\ZRCleanArchitectureApp.Domain.AssemblyInfoInputs.cache
+E:\GitHub\_Articles-Posts To Complete Code\ASP.net Core\Architectures\Clean-Architecture-ASP.NET-Core-MVC\ZRCleanArchitectureApp.Domain\obj\Debug\net7.0\ZRCleanArchitectureApp.Domain.AssemblyInfo.cs
+E:\GitHub\_Articles-Posts To Complete Code\ASP.net Core\Architectures\Clean-Architecture-ASP.NET-Core-MVC\ZRCleanArchitectureApp.Domain\obj\Debug\net7.0\ZRCleanArchitectureApp.Domain.csproj.CoreCompileInputs.cache
+E:\GitHub\_Articles-Posts To Complete Code\ASP.net Core\Architectures\Clean-Architecture-ASP.NET-Core-MVC\ZRCleanArchitectureApp.Domain\obj\Debug\net7.0\ZRCleanArchitectureApp.Domain.dll
+E:\GitHub\_Articles-Posts To Complete Code\ASP.net Core\Architectures\Clean-Architecture-ASP.NET-Core-MVC\ZRCleanArchitectureApp.Domain\obj\Debug\net7.0\refint\ZRCleanArchitectureApp.Domain.dll
+E:\GitHub\_Articles-Posts To Complete Code\ASP.net Core\Architectures\Clean-Architecture-ASP.NET-Core-MVC\ZRCleanArchitectureApp.Domain\obj\Debug\net7.0\ZRCleanArchitectureApp.Domain.pdb
+E:\GitHub\_Articles-Posts To Complete Code\ASP.net Core\Architectures\Clean-Architecture-ASP.NET-Core-MVC\ZRCleanArchitectureApp.Domain\obj\Debug\net7.0\ref\ZRCleanArchitectureApp.Domain.dll

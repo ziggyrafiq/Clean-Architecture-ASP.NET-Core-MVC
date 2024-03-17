@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ZRCleanArchitectureApp.Application\ZRCleanArchitectureApp.Application.csproj" />
+    <ProjectReference Include="..\ZRCleanArchitectureApp.Infrastructure\ZRCleanArchitectureApp.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

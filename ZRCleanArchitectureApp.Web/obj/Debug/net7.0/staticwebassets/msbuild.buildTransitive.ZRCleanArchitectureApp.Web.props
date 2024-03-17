@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ZRCleanArchitectureApp.Web.props" />
+</Project>
